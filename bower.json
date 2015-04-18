@@ -1,0 +1,21 @@
+{
+  "name": "d3-radial",
+  "version": "1.0.0",
+  "homepage": "http://www.brightpointinc.com/clients/brightpointinc.com/library/radialProgress/index.html",
+  "authors": [
+    "BrightPoint Consulting, Inc."
+  ],
+  "description": "A lightweight HTML5 radial progress component, using a function-chaining API.",
+  "main": [
+    "scripts/radialProgress.js",
+    "styles/style.css"
+  ],
+  "keywords": [
+    "D3"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "d3": "~3"
+  },
+  "devDependencies": {}
+}
